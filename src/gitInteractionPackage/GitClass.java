@@ -31,5 +31,9 @@ public class GitClass {
 	public void test7() {
 		System.out.println("test7 execution");
 	}
+	@Test
+	public void test8() {
+		System.out.println("test8 execution....");
+	}
 
 }
