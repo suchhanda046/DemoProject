@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-06T08:01:10Z" name="Default suite" finished-at="2020-07-06T08:01:10Z" duration-ms="152">
+    <groups>
+    </groups>
+    <test started-at="2020-07-06T08:01:10Z" name="Default test" finished-at="2020-07-06T08:01:10Z" duration-ms="152">
+      <class name="gitInteractionPackage.GitClass">
+        <test-method signature="test1()[pri:0, instance:gitInteractionPackage.GitClass@6b1274d2]" started-at="2020-07-06T08:01:10Z" name="test1" finished-at="2020-07-06T08:01:10Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:gitInteractionPackage.GitClass@6b1274d2]" started-at="2020-07-06T08:01:10Z" name="test2" finished-at="2020-07-06T08:01:10Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:gitInteractionPackage.GitClass@6b1274d2]" started-at="2020-07-06T08:01:10Z" name="test3" finished-at="2020-07-06T08:01:10Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:0, instance:gitInteractionPackage.GitClass@6b1274d2]" started-at="2020-07-06T08:01:10Z" name="test4" finished-at="2020-07-06T08:01:10Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:gitInteractionPackage.GitClass@6b1274d2]" started-at="2020-07-06T08:01:10Z" name="test5" finished-at="2020-07-06T08:01:10Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- gitInteractionPackage.GitClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
