@@ -23,5 +23,13 @@ public class GitClass {
 	public void test5() {
 		System.out.println("test5 execution");
 	}
+	@Test
+	public void test6() {
+		System.out.println("test6 execution");
+	}
+	@Test
+	public void test7() {
+		System.out.println("test7 execution");
+	}
 
 }
